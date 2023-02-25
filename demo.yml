@@ -20,4 +20,8 @@ products1:
 products2: [name: Iphone, name: Mac]
 
 adress:
-  - 
+  street: SpringField
+  city: Austin
+
+
+
