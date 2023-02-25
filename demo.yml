@@ -1,0 +1,23 @@
+# Comments 
+# YML = A'int Markup Lenguage
+# Super set of JSON, commonly used for exchange of applications and packages.
+# Uses simple Types of data: Lists, Objects, Dictionary or map, Using a YAML validator
+
+# MetaData: (<Key>: <Value>)
+customerName: Franco
+orderID: 123
+date: 12/12/2023
+shipped: false
+moreData: null
+
+# List example 1 (recommended): 
+products1:
+  - name: mac
+  - name: Iphone
+  - name: Desktop
+
+# List example 1: 
+products2: [name: Iphone, name: Mac]
+
+adress:
+  - 
